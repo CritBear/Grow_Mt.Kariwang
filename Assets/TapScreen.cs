@@ -5,9 +5,7 @@ using UnityEngine.UI;
 using UnityStandardAssets.CrossPlatformInput;
 
 public class TapScreen : MonoBehaviour {
-
-    public Text text;
-
+    
     private int touchCount = 0;
     private TouchPad m_TouchPad;
 
@@ -19,7 +17,6 @@ public class TapScreen : MonoBehaviour {
     public void Tap()
     {
         DataController.Instance.heart += DataController.Instance.heartPerClick;
-        text.text = DataController.Instance.heart.ToString();
 
         StartCoroutine(StopDrag());
     }

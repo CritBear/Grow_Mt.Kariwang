@@ -86,16 +86,25 @@
   <ItemGroup>
     <Compile Include="Assets\01.Download\Ground\Mountain Terrain\Misc\CameraDefault.cs" />
     <Compile Include="Assets\DataController.cs" />
+    <Compile Include="Assets\Debug_Particle.cs" />
     <Compile Include="Assets\Debug_ScreenSize.cs" />
+    <Compile Include="Assets\InfoPanelController.cs" />
+    <Compile Include="Assets\IntroController.cs" />
     <Compile Include="Assets\MenuController.cs" />
+    <Compile Include="Assets\MountainShake.cs" />
+    <Compile Include="Assets\MountainUpgradeButton.cs" />
     <Compile Include="Assets\TapScreen.cs" />
+    <Compile Include="Assets\TextScaler.cs" />
+    <Compile Include="Assets\UIManager.cs" />
     <Compile Include="Assets\UIScaler.cs" />
     <Compile Include="Assets\UpgradeButton.cs" />
+    <Compile Include="Assets\UpgradeButton_Tree.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\01.Download\Tree\BrokenVector\TreeRandomizer\readme.txt" />
     <None Include="Assets\01.Download\UI\HDIconsPackFree\readme_english.txt" />
     <None Include="Assets\01.Download\UI\HDIconsPackFree\readme_japanese.txt" />
+    <None Include="Assets\Foliage Free\Readme.txt" />
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />

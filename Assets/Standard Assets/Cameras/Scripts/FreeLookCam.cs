@@ -51,7 +51,6 @@ namespace UnityStandardAssets.Cameras
             }
         }
 
-
         private void OnDisable()
         {
             Cursor.lockState = CursorLockMode.None;

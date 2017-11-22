@@ -136,6 +136,7 @@
     <None Include="Assets\01.Download\Tree\BrokenVector\TreeRandomizer\readme.txt" />
     <None Include="Assets\01.Download\UI\HDIconsPackFree\readme_english.txt" />
     <None Include="Assets\01.Download\UI\HDIconsPackFree\readme_japanese.txt" />
+    <None Include="Assets\Foliage Free\Readme.txt" />
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
